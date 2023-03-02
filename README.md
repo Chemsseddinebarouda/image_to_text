@@ -17,3 +17,7 @@ to use tesseract_ocr model you can work with tesseract python file you must inst
 
 to use padlle_ocr model you can work with padlle_ocr python file you must install padlle_ocr model using : (!python3 -m pip install paddlepaddle
  and !pip install "paddleocr>=2.0.1")
+ 
+ #doctr_ocr
+ ---
+ 
